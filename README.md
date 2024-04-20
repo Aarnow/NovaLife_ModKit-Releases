@@ -1,6 +1,3 @@
-# 📦 ModKit v0.7.0
-
-
 ## 🔑 Conditions d'Utilisation
 
 #### 🚀 Utilisation sur des serveurs non lucratifs :
