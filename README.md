@@ -26,3 +26,5 @@ Merci de ne pas vous les approprier, de ne pas les copier bêtement, et de ne pa
 
 *Pour discuter, contactez-moi sur discord: **Aarnow***  
 [REJOINDRE LE DISCORD MOD](https://discord.gg/8j2suEE9Mf)
+
+![GitHub all releases](https://img.shields.io/github/downloads/aarnow/NovaLife_ModKit-Releases/total?style=plastic&label=Downloads&color=gold)
